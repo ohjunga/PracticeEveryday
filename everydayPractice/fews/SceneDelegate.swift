@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  QuotesGenerator
+//  fews
 //
-//  Created by  이재훈 on 2022/06/30.
+//  Created by  오정아 on 2022/07/07.
 //
 
 import UIKit
